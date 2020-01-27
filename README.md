@@ -1,4 +1,2 @@
-MobileTeam
+Pracice Edge Computing with Ras pi
 ==========
-
-test repository to examine git features
